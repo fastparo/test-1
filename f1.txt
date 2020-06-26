@@ -8,3 +8,4 @@ f
 123
 
 push1
+push2
